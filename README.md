@@ -1,7 +1,4 @@
 # search4letters
- - Creator (developer) does not guarantee you that this program will work and anything like that.
- - This program is being shared only under the Apache 2.0 license.
- - The developer is not guilty if any harm was made using this program and so on.
 
 #### Files
  - The code of HTML pages in the 'templates' folder.
