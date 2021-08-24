@@ -11,6 +11,5 @@ For instance, I used the one called "PythonAnywhere" (https://www.pythonanywhere
 You can watch on YouTube how to use it.
 
 You can write to me using email: mdddmmmmm@yandex.ru
-You can also look at my account on GitHub: https://github.com/mdddmmmm76
 
 I'd be glad to get any feedback or development ideas.
