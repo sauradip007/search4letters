@@ -10,6 +10,6 @@ To start the program, you should launch it on the one of web-hosting services fi
 For instance, I used the one called "PythonAnywhere" (https://www.pythonanywhere.com).
 You can watch on YouTube how to use it.
 
-You can write to me using email: mdddmmmmm@yandex.ru
+You can write to me using email: bigproject404@yandex.ru
 
 I'd be glad to get any feedback or development ideas.
