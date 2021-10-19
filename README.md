@@ -1,5 +1,5 @@
 # search4letters
-
+[![CodeFactor](https://www.codefactor.io/repository/github/bigproject404/search4letters/badge/main?s=08e6506c3d546fe906cab2d0e0484189b694a25d)](https://www.codefactor.io/repository/github/bigproject404/search4letters/overview/main)
 #### Files
  - The code of HTML pages in the 'templates' folder.
  - The css styles data is in the 'static' folder.
