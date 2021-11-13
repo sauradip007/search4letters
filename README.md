@@ -8,7 +8,7 @@
 
 To start the program, you should launch it on the one of web-hosting services first. 
 For instance, I used the one called "PythonAnywhere" (https://www.pythonanywhere.com).
-You can watch on YouTube how to use it.
+You can watch on YouTube how to use it (https://www.youtube.com/watch?v=Et4ia3O0QTw) would be a good place to start.
 
 You can write to me using email: bigproject404@yandex.ru
 
